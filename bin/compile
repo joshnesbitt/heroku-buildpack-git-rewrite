@@ -4,3 +4,5 @@ git config --global url."https://github.com/".insteadOf git@github.com:
 git config --global url."https://github.com/".insteadOf git+ssh://git@github.com:
 git config --global url."https://".insteadOf git://
 git config --global url."".insteadOf .git
+
+echo "✓ Applied aliases."
