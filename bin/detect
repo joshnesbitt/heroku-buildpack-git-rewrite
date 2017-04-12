@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+echo "Git protocol rewrite"
+
+exit 0
